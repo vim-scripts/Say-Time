@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3257
+
+For Windows.  It is handy to know what day and time it is but it is easy to forget.  This program reminds you of that every half hour.  Says:  day of week, day of month, month, and time in 24-hour format.  Not a vimscript, but seems relevant.  You might also try my gradually changing color scheme for vim: http://www.vim.org/scripts/script.php?script_id=2658.

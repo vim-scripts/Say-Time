@@ -13,7 +13,7 @@ While True
     $sTime = ""
 
     If $nDonotspeakunlesszero>0 Then
-	; make sure there is a wait to timeout the "not speaking" bit
+	; make sure the the "not speaking" bit eventually times out
         $nDonotspeakunlesszero = $nDonotspeakunlesszero-1
     EndIf
 
